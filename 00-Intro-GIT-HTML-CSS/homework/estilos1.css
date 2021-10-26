@@ -1,0 +1,25 @@
+#divP{
+    width: 700px;
+    height: 500px;
+    font-family: Arial;
+    
+    
+}
+h1{
+    background-color: rgb(74, 74, 250);
+    text-align: center;
+    font-size:x-large;
+    border: 1px solid black;
+}
+img{
+    float: right;
+    border: 1px solid black;
+    border-radius: 6px;
+    padding: 2px;
+}
+p{
+    padding-left: 3px;
+}
+.subTitulos{
+    font-weight: bold;
+}

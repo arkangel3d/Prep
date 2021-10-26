@@ -1,0 +1,32 @@
+h1 {
+    color: blue; 
+    }
+    img {
+        width: 400px;
+        align-content:  center;
+        
+    }
+    
+    #thirdDiv {
+        height: 600px;
+        width: 400px;
+        background-color: cyan;   
+        padding: 50px; 
+        border: 2px solid blue;
+       
+    }
+    #spanId{
+        font-size: 25px;
+        margin: 50px;
+    }
+
+    #divPrincipal{     
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+            
+              
+    }
+
